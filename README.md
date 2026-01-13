@@ -4,4 +4,7 @@ clinical data into a cohesive, interactive tool tailored for the HealthStat bran
 with user-friendly navigation to provide actionable insights into hospital operations and financial performance.
 
 
+<img width="1298" height="573" alt="image" src="https://github.com/user-attachments/assets/7a31ccff-91e9-4fcd-aa49-b74e0ed9cb9f" />
+
+
 
